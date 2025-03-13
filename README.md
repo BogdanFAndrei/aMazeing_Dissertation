@@ -56,4 +56,4 @@ Liverpool John Moores University
 Dissertation Project 2024
 
 ## License
-This project is part of an academic dissertation and all rights are reserved.
+MIT License
